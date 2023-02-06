@@ -1,0 +1,15 @@
+#container {
+    background-color: yellowgreen;
+    margin: auto;
+}
+
+#kitku {
+    display: inline-block;
+    width: 250px;
+    border: 0.5rem solid red;
+    padding: 1rem;
+    margin: 0.75rem;
+    background-color: salmon;
+    text-align: center;
+}
+
